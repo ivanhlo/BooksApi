@@ -1,0 +1,14 @@
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.deps.json
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.json
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.dev.json
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.dll
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.csprojAssemblyReference.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.csproj.CoreCompileInputs.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cs
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfoInputs.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfo.cs
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorTargetAssemblyInfo.cache
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.pdb
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.dll
+C:\Users\ihernandezl\OneDrive - Universidad Abierta y a Distancia de México\Learning\MongoDB\BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.pdb
